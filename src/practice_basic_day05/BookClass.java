@@ -24,6 +24,7 @@ public class BookClass {
         System.out.println("Kitap:" +adi + " Yazar :" +yazari + " yayin yili:" +yayinYili);
     }
 
+
     public static void main(String[] args) {
 
         BookClass kitap1=new BookClass("Harry Potter and The Goblet of Fire","JK Rowling",2000);

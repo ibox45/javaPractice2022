@@ -8,6 +8,7 @@ public class Ornek {
      * - Main method icerisinde bir ogrenciye ait variable’lar olusturun ve bu
      * variable’lara atama yapin
      *
+     *
      * - isimDegistir adinda bir method olusturun, parametre olarak ogrenci
      * bilgilerini alsin ve methodun icinde tum bilgileri degistirip, yeni bilgileri
      * yazdirsin
